@@ -32,7 +32,7 @@ Rta/ Los patrones de diseño más utilizados se clasifican en tres categorías p
 
 ![image](https://github.com/bray0829/act.introduccion../assets/130944215/8c86d6c0-e547-4a3f-ba66-88100dc45918)
 
-# ¿Que es poo?
+# ¿Que es pooo?
 Rta/  es un paradigma de programación que se basa en la creación y manipulación de objetos para desarrollar software. En la POO, los objetos son entidades que combinan datos y funciones relacionadas en una sola unidad, lo que permite modelar y representar de manera más efectiva los conceptos del mundo real.
 La programación orientada a objetos se basa en cuatro conceptos fundamentales:
 
