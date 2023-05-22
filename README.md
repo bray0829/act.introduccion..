@@ -1,7 +1,7 @@
 # act.introduccion..
 # ¿Que son la pruebas de sofware?.
 Rta/ La prueba de software es cuando revisas y compruebas que un producto o aplicación de software haga lo que se supone que debe hacer. Es importante porque nos ayuda a evitar errores, a ahorrar dinero durante el proceso de desarrollo y a lograr un mejor rendimiento en general.
-# tipos de pruebas de sofware.
+# Tipos de pruebas de sofware.
 Rta/ existen varios tipos de pruebas de software como los siguiente, cada una con sus objetivos y estrategias específicas. 
 
 -Prueba de aceptación: Esta prueba se encarga de verificar si todo el sistema funciona de acuerdo a lo planeado.
@@ -21,7 +21,7 @@ Rta/ existen varios tipos de pruebas de software como los siguiente, cada una co
 -Pruebas de usabilidad: Estas pruebas validan qué tan fácil es para un cliente utilizar un sistema o una aplicación web para completar una tarea con éxito.
 # ¿Que son los patrones de software?
 Rta/ Los patrones de diseño o design patterns, son una solución general, reutilizable y aplicable a diferentes problemas de diseño de software. Se trata de plantillas que identifican problemas en el sistema y proporcionan soluciones apropiadas a problemas generales a los que se han enfrentado los desarrolladores durante un largo periodo de tiempo, a través de prueba y error.
-# tipos de patrones
+# Tipos de patrones
 Rta/ Los patrones de diseño más utilizados se clasifican en tres categorías principales, cada patrón de diseño individual conforma un total de 23 patrones de diseño. Las tres categorías principales son:
 
 -Patrones creacionales
@@ -32,7 +32,7 @@ Rta/ Los patrones de diseño más utilizados se clasifican en tres categorías p
 
 ![image](https://github.com/bray0829/act.introduccion../assets/130944215/8c86d6c0-e547-4a3f-ba66-88100dc45918)
 
-# ¿Que es pooo?
+# ¿Que es po0o?
 Rta/  es un paradigma de programación que se basa en la creación y manipulación de objetos para desarrollar software. En la POO, los objetos son entidades que combinan datos y funciones relacionadas en una sola unidad, lo que permite modelar y representar de manera más efectiva los conceptos del mundo real.
 La programación orientada a objetos se basa en cuatro conceptos fundamentales:
 
@@ -44,7 +44,7 @@ La programación orientada a objetos se basa en cuatro conceptos fundamentales:
 
 -Herencia: La herencia permite crear nuevas clases basadas en clases existentes, heredando sus propiedades y comportamientos. Esto facilita la reutilización de código y permite crear jerarquías de clases.
 
-# informacion sacada de:
+# Informacion sacada de:
 https://www.ibm.com/mx-es/topics/software-testing#:~:text=La%20prueba%20de%20software%20es,y%20la%20mejora%20del%20rendimiento.
 
 https://profile.es/blog/patrones-de-diseno-de-software/#%C2%BFQue_son_los_patrones_de_diseno_design_patterns
