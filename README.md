@@ -50,3 +50,10 @@ https://www.ibm.com/mx-es/topics/software-testing#:~:text=La%20prueba%20de%20sof
 https://profile.es/blog/patrones-de-diseno-de-software/#%C2%BFQue_son_los_patrones_de_diseno_design_patterns
 
 https://intelequia.com/blog/post/qu%C3%A9-es-la-programaci%C3%B3n-orientada-a-objetos#:~:text=La%20Programaci%C3%B3n%20Orientada%20a%20Objetos%20(POO)%20es%20un%20paradigma%20de,concepto%20de%20clases%20y%20objetos.
+
+# Trabajo Hecho por 
+Nicolas Rodriguez-2220231098
+
+Valentina Cortes-2220231119
+
+Brayam Santafe-2220231067
